@@ -1,0 +1,9 @@
+{
+    "dir": "/var/www/html/projet1",
+    "watch": null,
+    "pid": 2559,
+    "port": 8000,
+    "scheme": "http",
+    "args": null,
+    "name": "Web Server"
+}

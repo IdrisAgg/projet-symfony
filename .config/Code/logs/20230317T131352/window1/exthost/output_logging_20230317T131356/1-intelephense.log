@@ -1,0 +1,9 @@
+[Info  - 13:13:59] Initialising intelephense 1.9.5
+[Info  - 13:13:59] Reading state from /home/tengen/.config/Code/User/workspaceStorage/fd6158fc8802d977532136c764908d03/bmewburn.vscode-intelephense-client/489e596.
+[Info  - 13:14:01] Initialised in 2884 ms
+[Info  - 13:14:02] Searching file:///home/tengen/.vscode/extensions/bmewburn.vscode-intelephense-client-1.9.5/node_modules/intelephense/lib/stub for files to index.
+[Info  - 13:14:02] Searching file:///var/www/html/projet1 for files to index.
+[Info  - 13:14:03] Indexing started.
+[Info  - 13:14:06] Indexing ended. 1627 files indexed in 2s.
+[Info  - 13:14:06] Writing state to /home/tengen/.config/Code/User/workspaceStorage/fd6158fc8802d977532136c764908d03/bmewburn.vscode-intelephense-client/489e596.
+[Info  - 13:14:07] Wrote state in 1.3s.

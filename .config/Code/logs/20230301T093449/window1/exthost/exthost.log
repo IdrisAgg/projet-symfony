@@ -1,0 +1,12 @@
+2023-03-01 09:34:51.786 [info] Extension host with pid 3000 started
+2023-03-01 09:34:51.786 [info] Skipping acquiring lock for /home/tengen/.config/Code/User/workspaceStorage/fd6158fc8802d977532136c764908d03.
+2023-03-01 09:34:51.963 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2023-03-01 09:34:51.987 [info] ExtensionService#_doActivateExtension vscode.php-language-features, startup: false, activationEvent: 'onLanguage:php'
+2023-03-01 09:34:51.996 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2023-03-01 09:34:52.234 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2023-03-01 09:34:52.327 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2023-03-01 09:34:52.380 [info] Eager extensions activated
+2023-03-01 09:34:52.419 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2023-03-01 09:34:52.423 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2023-03-01 09:34:53.067 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2023-03-01 09:34:53.133 [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'

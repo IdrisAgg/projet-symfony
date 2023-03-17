@@ -1,0 +1,106 @@
+# Ce fichier viminfo a été généré par Vim 8.2.
+# Vous pouvez l'éditer, mais soyez prudent.
+
+# Viminfo version
+|1,4
+
+# 'encoding' dans lequel ce fichier a été écrit
+*encoding=utf-8
+
+
+# hlsearch on (H) or off (h):
+~h
+# Historique ligne de commande (chronologie décroissante) :
+:qa!
+|2,0,1676279564,,"qa!"
+:qa
+|2,0,1676019433,,"qa"
+:wq
+|2,0,1676019382,,"wq"
+:i
+|2,0,1676019092,,"i"
+
+# Historique chaîne de recherche (chronologie décroissante) :
+
+# Historique expression (chronologie décroissante) :
+
+# Historique ligne de saisie (chronologie décroissante) :
+
+# Historique Ligne de débogage (chronologie décroissante) :
+
+# Registres :
+
+# Marques dans le fichier :
+'0  1  0  /var/www/html/projet1/src/Controller/DefaultController.php
+|4,48,1,0,1676279564,"/var/www/html/projet1/src/Controller/DefaultController.php"
+'1  5  0  ~/script1.sh
+|4,49,5,0,1676019433,"~/script1.sh"
+'2  2  24  ~/script2.sh
+|4,50,2,24,1676019382,"~/script2.sh"
+'3  5  0  ~/script1.sh
+|4,51,5,0,1676019214,"~/script1.sh"
+
+# Liste de sauts (le plus récent en premier) :
+-'  1  0  /var/www/html/projet1/src/Controller/DefaultController.php
+|4,39,1,0,1676279564,"/var/www/html/projet1/src/Controller/DefaultController.php"
+-'  5  0  ~/script1.sh
+|4,39,5,0,1676019433,"~/script1.sh"
+-'  5  0  ~/script1.sh
+|4,39,5,0,1676019433,"~/script1.sh"
+-'  2  24  ~/script2.sh
+|4,39,2,24,1676019382,"~/script2.sh"
+-'  2  24  ~/script2.sh
+|4,39,2,24,1676019382,"~/script2.sh"
+-'  2  24  ~/script2.sh
+|4,39,2,24,1676019382,"~/script2.sh"
+-'  2  24  ~/script2.sh
+|4,39,2,24,1676019382,"~/script2.sh"
+-'  1  0  ~/script2.sh
+|4,39,1,0,1676019284,"~/script2.sh"
+-'  1  0  ~/script2.sh
+|4,39,1,0,1676019284,"~/script2.sh"
+-'  1  0  ~/script2.sh
+|4,39,1,0,1676019284,"~/script2.sh"
+-'  1  0  ~/script2.sh
+|4,39,1,0,1676019284,"~/script2.sh"
+-'  5  0  ~/script1.sh
+|4,39,5,0,1676019214,"~/script1.sh"
+-'  5  0  ~/script1.sh
+|4,39,5,0,1676019214,"~/script1.sh"
+-'  5  0  ~/script1.sh
+|4,39,5,0,1676019214,"~/script1.sh"
+-'  5  0  ~/script1.sh
+|4,39,5,0,1676019214,"~/script1.sh"
+-'  1  0  ~/script1.sh
+|4,39,1,0,1676019050,"~/script1.sh"
+-'  1  0  ~/script1.sh
+|4,39,1,0,1676019050,"~/script1.sh"
+-'  1  0  ~/script1.sh
+|4,39,1,0,1676019050,"~/script1.sh"
+-'  1  0  ~/script1.sh
+|4,39,1,0,1676019050,"~/script1.sh"
+-'  1  0  ~/script1.sh
+|4,39,1,0,1676019050,"~/script1.sh"
+-'  1  0  ~/script1.sh
+|4,39,1,0,1676019050,"~/script1.sh"
+
+# Historique des marques dans les fichiers (les plus récentes en premier) :
+
+> /var/www/html/projet1/src/Controller/DefaultController.php
+	*	1676279545	0
+	"	1	0
+
+> ~/script1.sh
+	*	1676019429	0
+	"	5	0
+	^	5	0
+	.	4	12
+	+	1	11
+	+	4	12
+
+> ~/script2.sh
+	*	1676019338	0
+	"	2	24
+	^	2	25
+	.	2	24
+	+	2	24

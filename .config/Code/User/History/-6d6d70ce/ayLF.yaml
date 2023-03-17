@@ -1,0 +1,38 @@
+#index:
+#    path: /
+#    controller: App\Controller\DefaultController::index
+
+accueil: 
+    path: /accueil/{profil}/{annee}
+    controller: App\Controller\AccueilController::index
+    requirements:
+        profil: "[a-zA-Z]+"
+        annee: '\d{4}'
+
+
+bonjour: 
+    path: /bonjour
+    controller: App\Controller\TestController::accueil
+
+
+test: 
+    path: /test
+    controller: App\Controller\TestController::letest
+
+
+liste:
+    path: /liste
+    controller: App\Controller\ListeController::LaListe
+
+ajout:
+    path: /ajout
+    controller: App\Controller\AccueilController::newClient
+
+ajoutMedic:
+    path: /ajoutMedic
+    controller: App\Controller\MedicamentController::addMedoc
+
+ajoutVisiteur:
+    path: /ajoutVisit
+    controller: App\Controller\VisiteurController::addMedoc
+    

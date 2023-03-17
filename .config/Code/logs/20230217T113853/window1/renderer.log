@@ -1,0 +1,7 @@
+2023-02-17 11:38:54.543 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'github.vscode-pull-request-github' wants API proposal 'commentsResolvedState' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2023-02-17 11:38:57.821 [error] RequestService#request (browser) - error https://marketplace.visualstudio.com/_apis/public/gallery/extensionquery {}
+2023-02-17 11:38:58.756 [error] RequestService#request (browser) - error https://vscodeexperiments.azureedge.net/experiments/vscode-experiments.json {}
+2023-02-17 11:38:59.342 [info] [perf] Render performance baseline is 159ms
+2023-02-17 11:38:59.505 [error] RequestService#request (browser) - error https://marketplace.visualstudio.com/_apis/public/gallery/extensionquery {}
+2023-02-17 11:38:59.507 [error] XHR failed: Error: XHR failed
+    at v.onerror (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:72:1428)

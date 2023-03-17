@@ -1,0 +1,55 @@
+<?php
+
+namespace App\Controller;
+use App\Entity\Medicament;
+use Symfony\Bundle\FrameworkBundle\Controller\AbstractController;
+use Symfony\Component\HttpFoundation\Response;
+use Symfony\Component\Routing\Annotation\Route;
+
+class MedicamentController extends AbstractController
+{
+    #[Route('/medicament', name: 'app_medicament')]
+    public function index(): Response
+    {
+        return $this->render('medicament/index.html.twig', [
+            'controller_name' => 'MedicamentController',
+        ]);
+    }
+
+
+    public function addMedoc(): Response
+    {
+        $medoc = new Medicament();
+        $medoc->setDepotLegal('Depot-5'); 
+        $medoc->setNomCommercial('amoxicilline');
+        $medoc->setCode('123456');
+        $medoc->setComposition('excipient,principes actifs');
+        $medoc->setEffetsIndesirable('Aucun');
+        $medoc->setContreIndication('pas de conduite pendant 3 jours');
+        $medoc->setPrixEchantillon('18.50');
+        $em = $this->getDoctrine()->getManager();
+        $em->persist($medoc);
+        $em->flush();
+        return $this->render('medicament/index.html.twig', [
+            'controller_name' => 'MedicamentController',
+        ]);
+    }
+
+    public function formMedoc(Request, $request)
+    {
+        $medoc = new Medicament();
+        $medoc->setDepotLegal('Depot-5'); 
+        $medoc->setNomCommercial('amoxicilline');
+        $medoc->setCode('123456');
+        $medoc->setComposition('excipient,principes actifs');
+        $medoc->setEffetsIndesirable('Aucun');
+        $medoc->setContreIndication('pas de conduite pendant 3 jours');
+        $medoc->setPrixEchantillon('18.50');
+        $em = $this->getDoctrine()->getManager();
+        $em->persist($medoc);
+        $em->flush();
+        return $this->render('medicament/index.html.twig', [
+            'controller_name' => 'MedicamentController',
+        ]);
+    }
+}

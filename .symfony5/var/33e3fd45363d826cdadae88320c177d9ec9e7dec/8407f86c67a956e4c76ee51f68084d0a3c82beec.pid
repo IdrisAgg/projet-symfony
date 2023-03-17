@@ -1,0 +1,15 @@
+{
+    "dir": "/var/www/html/projet1",
+    "watch": null,
+    "pid": 2571,
+    "port": 0,
+    "scheme": "",
+    "args": [
+        "/usr/sbin/php-fpm8.2",
+        "--nodaemonize",
+        "--fpm-config",
+        "/home/tengen/.symfony5/php/33e3fd45363d826cdadae88320c177d9ec9e7dec/fpm-8.2.3.ini",
+        "--force-stderr"
+    ],
+    "name": "PHP-FPM"
+}

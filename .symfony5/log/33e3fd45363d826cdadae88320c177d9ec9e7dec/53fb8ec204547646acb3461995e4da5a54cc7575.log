@@ -1,0 +1,4 @@
+[02-Mar-2023 09:33:52] NOTICE: fpm is running, pid 2571
+[02-Mar-2023 09:33:52] NOTICE: ready to handle connections
+[02-Mar-2023 09:33:52] NOTICE: systemd monitor interval set to 10000ms
+[02-Mar-2023 08:49:04 UTC] 2023-03-02T08:49:04+00:00 [critical] Uncaught Exception: Expected to find class "App\Controller\z_AccueilController" in file "/var/www/html/projet1/src/Controller/z_AccueilController.php" while importing services from resource "../src/", but it was not found! Check the namespace prefix used with the resource in /var/www/html/projet1/config/services.yaml (which is being imported from "/var/www/html/projet1/src/Kernel.php").

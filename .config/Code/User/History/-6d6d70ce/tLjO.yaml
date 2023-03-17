@@ -1,0 +1,21 @@
+#index:
+#    path: /
+#    controller: App\Controller\DefaultController::index
+
+accueil: 
+    path: /accueil/{profil}/{annee}
+    controller: App\Controller\AccueilController::index
+    requirements:
+        profil: "[a-zA-Z]+"
+        annee: '\d{4}'
+
+
+bonjour: 
+    path: /test
+    controller: App\Controller\TestController::letest
+
+
+test: 
+    path: /test
+    controller: App\Controller\TestController::letest
+    

@@ -1,0 +1,11 @@
+2023-03-01 11:08:04.625 [info] Starting worker process with pid 1855 (type: fileWatcher, window: 1).
+2023-03-01 12:43:30.057 [info] Getting Manifest... bmewburn.vscode-intelephense-client
+2023-03-01 12:43:30.065 [info] Installing extension: bmewburn.vscode-intelephense-client
+2023-03-01 12:43:33.919 [info] Extension signature verification: bmewburn.vscode-intelephense-client. Verification status: Verified.
+2023-03-01 12:43:34.948 [info] Extracted extension to /home/tengen/.vscode/extensions/.83c48b38-8f84-4037-b771-2ab238901526: bmewburn.vscode-intelephense-client
+2023-03-01 12:43:34.964 [info] Renamed to /home/tengen/.vscode/extensions/bmewburn.vscode-intelephense-client-1.9.5
+2023-03-01 12:43:34.966 [info] Extracting completed. bmewburn.vscode-intelephense-client
+2023-03-01 12:43:34.979 [info] Extension installed successfully: bmewburn.vscode-intelephense-client
+2023-03-01 13:53:17.300 [warning] No ptyHost heartbeat after 6 seconds
+2023-03-01 14:26:08.120 [warning] No ptyHost heartbeat after 6 seconds
+2023-03-01 14:42:00.389 [warning] No ptyHost heartbeat after 6 seconds

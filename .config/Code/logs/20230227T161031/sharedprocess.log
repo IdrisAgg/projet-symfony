@@ -1,0 +1,5 @@
+2023-02-27 16:10:36.404 [info] Starting worker process with pid 1806 (type: fileWatcher, window: 1).
+2023-02-27 16:23:38.066 [warning] No ptyHost heartbeat after 6 seconds
+2023-02-27 16:34:01.301 [warning] No ptyHost heartbeat after 6 seconds
+2023-02-27 16:36:55.849 [warning] No ptyHost heartbeat after 6 seconds
+2023-02-27 16:37:07.190 [warning] No ptyHost heartbeat after 6 seconds

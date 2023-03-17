@@ -1,0 +1,16 @@
+2023-03-01 09:25:00.550 [info] update#setState idle
+2023-03-01 09:25:02.464 [info] [UtilityProcess id: 1, type: extensionHost, pid: <none>]: creating new...
+2023-03-01 09:25:02.476 [info] [UtilityProcess id: 1, type: extensionHost, pid: 1904]: successfully created
+2023-03-01 09:25:04.668 [error] update#isLatestVersion(): failed to check for updates
+2023-03-01 09:25:04.668 [error] Error: net::ERR_NAME_NOT_RESOLVED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:105:7047)
+    at SimpleURLLoaderWrapper.emit (node:events:526:28)
+2023-03-01 09:25:06.969 [error] update#isLatestVersion(): failed to check for updates
+2023-03-01 09:25:06.970 [error] Error: net::ERR_NAME_NOT_RESOLVED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:105:7047)
+    at SimpleURLLoaderWrapper.emit (node:events:526:28)
+2023-03-01 09:25:30.564 [info] update#setState checking for updates
+2023-03-01 09:25:30.569 [error] Error: net::ERR_INTERNET_DISCONNECTED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:105:7047)
+    at SimpleURLLoaderWrapper.emit (node:events:526:28)
+2023-03-01 09:25:30.569 [info] update#setState idle

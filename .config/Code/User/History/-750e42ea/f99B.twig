@@ -1,0 +1,22 @@
+
+{% extends 'base.html.twig' %}
+
+{% block title %}Hello DefaultController!{% endblock %}
+
+{% block body %}
+<h1>Exercice Liste</h1>
+
+<ul>
+{% for eleve in eleves %}
+
+<li>Prenom: {{eleve.prenom}}</li>
+<li>Nom: {{eleve.nom}}</li>
+<li>Age: {{eleve.age}}</li>
+<li>Métier: {{eleve.metier}}</li>
+
+
+{% endfor %}
+
+</ul>
+
+{% endblock %}

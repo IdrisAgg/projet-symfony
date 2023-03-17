@@ -1,0 +1,229 @@
+[Info  - 12:43:35] Initialising intelephense 1.9.5
+[Info  - 12:43:35] Initialised in 28 ms
+[Info  - 12:43:35] Environment changed. Refreshing 2 in memory documents.
+[Info  - 12:43:35] Searching file:///home/tengen/.vscode/extensions/bmewburn.vscode-intelephense-client-1.9.5/node_modules/intelephense/lib/stub for files to index.
+[Info  - 12:43:35] Searching file:///var/www/html/projet1 for files to index.
+[Info  - 12:43:36] Indexing started.
+[Info  - 12:43:55] Indexing ended. 8660 files indexed in 19s.
+[Info  - 12:43:55] Writing state to /home/tengen/.config/Code/User/workspaceStorage/fd6158fc8802d977532136c764908d03/bmewburn.vscode-intelephense-client/489e596.
+[Info  - 12:43:56] Wrote state in 1.3s.
+[Info  - 12:43:59] Indexing started.
+[Info  - 12:43:59] Indexing ended. 2 files indexed in 0s.
+[Info  - 12:44:13] Indexing started.
+[Info  - 12:44:13] Indexing ended. 2 files indexed in 0s.
+[Info  - 12:44:25] Indexing started.
+[Info  - 12:44:25] Indexing ended. 2 files indexed in 0s.
+[Info  - 12:44:41] Indexing started.
+[Info  - 12:44:41] Indexing ended. 2 files indexed in 0s.
+[Info  - 12:46:05] Indexing started.
+[Info  - 12:46:05] Indexing ended. 2 files indexed in 0s.
+[Info  - 12:59:51] Indexing started.
+[Info  - 12:59:51] Indexing ended. 1 files indexed in 0s.
+[Info  - 13:58:59] Indexing started.
+[Info  - 13:59:00] Indexing ended. 12 files indexed in 0s.
+[Info  - 13:59:00] Indexing started.
+[Info  - 13:59:01] Indexing ended. 349 files indexed in 0s.
+[Info  - 13:59:37] Indexing started.
+[Info  - 13:59:37] Indexing ended. 2 files indexed in 0s.
+[Info  - 14:00:11] Indexing started.
+[Info  - 14:00:11] Indexing ended. 2 files indexed in 0s.
+[Info  - 14:04:35] Indexing started.
+[Info  - 14:04:35] Indexing ended. 3 files indexed in 0s.
+[Info  - 14:05:22] Indexing started.
+[Info  - 14:05:22] Indexing ended. 2 files indexed in 0s.
+[Info  - 14:06:27] Indexing started.
+[Info  - 14:06:28] Indexing ended. 1 files indexed in 0s.
+[Info  - 14:06:34] Indexing started.
+[Info  - 14:06:35] Indexing ended. 1 files indexed in 0s.
+[Info  - 14:06:52] Indexing started.
+[Info  - 14:06:52] Indexing ended. 1 files indexed in 0s.
+[Info  - 14:06:58] Indexing started.
+[Info  - 14:06:58] Indexing ended. 1 files indexed in 0s.
+[Info  - 14:13:45] Indexing started.
+[Info  - 14:13:45] Indexing ended. 2 files indexed in 0s.
+[Info  - 14:31:47] Indexing started.
+[Info  - 14:31:48] Indexing ended. 2 files indexed in 0s.
+[Info  - 14:32:07] Indexing started.
+[Info  - 14:32:07] Indexing ended. 21 files indexed in 0s.
+[Info  - 14:32:08] Indexing started.
+[Info  - 14:32:08] Indexing ended. 339 files indexed in 0s.
+[Info  - 14:33:18] Indexing started.
+[Info  - 14:33:18] Indexing ended. 2 files indexed in 0s.
+[Info  - 14:34:51] Indexing started.
+[Info  - 14:34:52] Indexing ended. 21 files indexed in 0s.
+[Info  - 14:34:53] Indexing started.
+[Info  - 14:34:53] Indexing ended. 348 files indexed in 0s.
+[Info  - 14:36:53] Indexing started.
+[Info  - 14:36:53] Indexing ended. 3 files indexed in 0s.
+[Info  - 14:36:54] Indexing started.
+[Info  - 14:36:55] Indexing ended. 365 files indexed in 1s.
+[Info  - 14:37:54] Indexing started.
+[Info  - 14:37:54] Indexing ended. 1 files indexed in 0s.
+[Info  - 14:44:18] Indexing started.
+[Info  - 14:44:19] Indexing ended. 2 files indexed in 0s.
+[Info  - 14:44:26] Indexing started.
+[Info  - 14:44:26] Indexing ended. 2 files indexed in 0s.
+[Info  - 14:44:41] Indexing started.
+[Info  - 14:44:41] Indexing ended. 2 files indexed in 0s.
+[Info  - 14:45:25] Indexing started.
+[Info  - 14:45:25] Indexing ended. 2 files indexed in 0s.
+[Info  - 14:45:36] Indexing started.
+[Info  - 14:45:36] Indexing ended. 19 files indexed in 0s.
+[Info  - 14:45:37] Indexing started.
+[Info  - 14:45:38] Indexing ended. 353 files indexed in 1s.
+[Info  - 14:45:40] Indexing started.
+[Info  - 14:45:40] Indexing ended. 1 files indexed in 0s.
+[Info  - 14:50:37] Indexing started.
+[Info  - 14:50:38] Indexing ended. 1 files indexed in 0s.
+[Info  - 14:50:44] Indexing started.
+[Info  - 14:50:44] Indexing ended. 1 files indexed in 0s.
+[Info  - 14:51:08] Indexing started.
+[Info  - 14:51:08] Indexing ended. 1 files indexed in 0s.
+[Info  - 14:51:12] Indexing started.
+[Info  - 14:51:12] Indexing ended. 1 files indexed in 0s.
+[Info  - 14:54:41] Indexing started.
+[Info  - 14:54:41] Indexing ended. 5 files indexed in 0s.
+[Info  - 14:55:30] Indexing started.
+[Info  - 14:55:30] Indexing ended. 2 files indexed in 0s.
+[Info  - 14:56:26] Indexing started.
+[Info  - 14:56:26] Indexing ended. 2 files indexed in 0s.
+[Info  - 14:59:42] Indexing started.
+[Info  - 14:59:42] Indexing ended. 2 files indexed in 0s.
+[Info  - 15:01:13] Indexing started.
+[Info  - 15:01:13] Indexing ended. 2 files indexed in 0s.
+[Info  - 15:01:35] Indexing started.
+[Info  - 15:01:35] Indexing ended. 2 files indexed in 0s.
+[Info  - 15:01:45] Indexing started.
+[Info  - 15:01:45] Indexing ended. 2 files indexed in 0s.
+[Info  - 15:02:00] Indexing started.
+[Info  - 15:02:00] Indexing ended. 2 files indexed in 0s.
+[Info  - 15:02:11] Indexing started.
+[Info  - 15:02:11] Indexing ended. 2 files indexed in 0s.
+[Info  - 15:02:28] Indexing started.
+[Info  - 15:02:28] Indexing ended. 2 files indexed in 0s.
+[Info  - 15:02:39] Indexing started.
+[Info  - 15:02:39] Indexing ended. 2 files indexed in 0s.
+[Info  - 15:02:46] Indexing started.
+[Info  - 15:02:47] Indexing ended. 2 files indexed in 0s.
+[Info  - 15:03:00] Indexing started.
+[Info  - 15:03:00] Indexing ended. 2 files indexed in 0s.
+[Info  - 15:03:15] Indexing started.
+[Info  - 15:03:15] Indexing ended. 16 files indexed in 0s.
+[Info  - 15:03:16] Indexing started.
+[Info  - 15:03:17] Indexing ended. 359 files indexed in 1s.
+[Info  - 15:03:25] Indexing started.
+[Info  - 15:03:26] Indexing ended. 2 files indexed in 0s.
+[Info  - 15:03:29] Indexing started.
+[Info  - 15:03:29] Indexing ended. 64 files indexed in 0s.
+[Info  - 15:03:30] Indexing started.
+[Info  - 15:03:30] Indexing ended. 317 files indexed in 0s.
+[Info  - 15:04:05] Indexing started.
+[Info  - 15:04:05] Indexing ended. 2 files indexed in 0s.
+[Info  - 15:04:46] Indexing started.
+[Info  - 15:04:47] Indexing ended. 27 files indexed in 0s.
+[Info  - 15:04:47] Indexing started.
+[Info  - 15:04:48] Indexing ended. 361 files indexed in 1s.
+[Info  - 15:06:11] Indexing started.
+[Info  - 15:06:11] Indexing ended. 2 files indexed in 0s.
+[Info  - 15:06:25] Indexing started.
+[Info  - 15:06:26] Indexing ended. 13 files indexed in 0s.
+[Info  - 15:06:26] Indexing started.
+[Info  - 15:06:28] Indexing ended. 377 files indexed in 1s.
+[Info  - 15:06:45] Indexing started.
+[Info  - 15:06:45] Indexing ended. 2 files indexed in 0s.
+[Info  - 15:07:42] Indexing started.
+[Info  - 15:07:43] Indexing ended. 388 files indexed in 1s.
+[Info  - 15:08:12] Indexing started.
+[Info  - 15:08:13] Indexing ended. 1 files indexed in 0s.
+[Info  - 15:08:25] Indexing started.
+[Info  - 15:08:25] Indexing ended. 24 files indexed in 0s.
+[Info  - 15:08:26] Indexing started.
+[Info  - 15:08:27] Indexing ended. 364 files indexed in 1s.
+[Info  - 15:09:28] Indexing started.
+[Info  - 15:09:28] Indexing ended. 1 files indexed in 0s.
+[Info  - 15:11:12] Indexing started.
+[Info  - 15:11:12] Indexing ended. 31 files indexed in 0s.
+[Info  - 15:11:13] Indexing started.
+[Info  - 15:11:14] Indexing ended. 356 files indexed in 0s.
+[Info  - 15:13:18] Indexing started.
+[Info  - 15:13:18] Indexing ended. 36 files indexed in 0s.
+[Info  - 15:13:19] Indexing started.
+[Info  - 15:13:20] Indexing ended. 352 files indexed in 0s.
+[Info  - 15:13:22] Indexing started.
+[Info  - 15:13:23] Indexing ended. 2 files indexed in 0s.
+[Info  - 15:17:21] Indexing started.
+[Info  - 15:17:21] Indexing ended. 2 files indexed in 0s.
+[Warn  - 15:25:53] Error: ENOENT: no such file or directory, open '/var/www/html/projet1/var/cache/dev/ContainerOn3xhyt/getRegion2Service.php'
+[Warn  - 15:25:53] Error: ENOENT: no such file or directory, open '/var/www/html/projet1/var/cache/dev/ContainerOn3xhyt/getRegionService.php'
+[Warn  - 15:25:53] Error: ENOENT: no such file or directory, open '/var/www/html/projet1/var/cache/dev/Container0tLJIEM/getRegion2Service.php'
+[Warn  - 15:25:53] Error: ENOENT: no such file or directory, open '/var/www/html/projet1/var/cache/dev/Container0tLJIEM/getRegionService.php'
+[Warn  - 15:25:53] Error: ENOENT: no such file or directory, open '/var/www/html/projet1/var/cache/dev/ContainerZlFszWJ/getRegion2Service.php'
+[Warn  - 15:25:53] Error: ENOENT: no such file or directory, open '/var/www/html/projet1/var/cache/dev/ContainerZlFszWJ/getRegionService.php'
+[Warn  - 15:25:53] Error: ENOENT: no such file or directory, open '/var/www/html/projet1/var/cache/dev/ContainerZxDxPXb/getRegion2Service.php'
+[Warn  - 15:25:53] Error: ENOENT: no such file or directory, open '/var/www/html/projet1/var/cache/dev/ContainerZxDxPXb/getRegionService.php'
+[Warn  - 15:25:53] Error: ENOENT: no such file or directory, open '/var/www/html/projet1/var/cache/dev/Container7ncxCCV/getRegion2Service.php'
+[Warn  - 15:25:53] Error: ENOENT: no such file or directory, open '/var/www/html/projet1/var/cache/dev/Container7ncxCCV/getRegionService.php'
+[Warn  - 15:25:53] Error: ENOENT: no such file or directory, open '/var/www/html/projet1/var/cache/dev/ContainerX9mSmHR/getRegion2Service.php'
+[Warn  - 15:25:53] Error: ENOENT: no such file or directory, open '/var/www/html/projet1/var/cache/dev/ContainerX9mSmHR/getRegionService.php'
+[Warn  - 15:26:32] Error: ENOENT: no such file or directory, open '/var/www/html/projet1/var/cache/dev/ContainerOn3xhyt/getRegion2Service.php'
+[Warn  - 15:26:32] Error: ENOENT: no such file or directory, open '/var/www/html/projet1/var/cache/dev/ContainerOn3xhyt/getRegionService.php'
+[Warn  - 15:26:32] Error: ENOENT: no such file or directory, open '/var/www/html/projet1/var/cache/dev/Container0tLJIEM/getRegion2Service.php'
+[Warn  - 15:26:32] Error: ENOENT: no such file or directory, open '/var/www/html/projet1/var/cache/dev/Container0tLJIEM/getRegionService.php'
+[Warn  - 15:26:32] Error: ENOENT: no such file or directory, open '/var/www/html/projet1/var/cache/dev/ContainerZlFszWJ/getRegion2Service.php'
+[Warn  - 15:26:32] Error: ENOENT: no such file or directory, open '/var/www/html/projet1/var/cache/dev/ContainerZlFszWJ/getRegionService.php'
+[Warn  - 15:26:32] Error: ENOENT: no such file or directory, open '/var/www/html/projet1/var/cache/dev/ContainerZxDxPXb/getRegion2Service.php'
+[Warn  - 15:26:32] Error: ENOENT: no such file or directory, open '/var/www/html/projet1/var/cache/dev/ContainerZxDxPXb/getRegionService.php'
+[Warn  - 15:26:32] Error: ENOENT: no such file or directory, open '/var/www/html/projet1/var/cache/dev/Container7ncxCCV/getRegion2Service.php'
+[Warn  - 15:26:32] Error: ENOENT: no such file or directory, open '/var/www/html/projet1/var/cache/dev/Container7ncxCCV/getRegionService.php'
+[Warn  - 15:26:32] Error: ENOENT: no such file or directory, open '/var/www/html/projet1/var/cache/dev/ContainerX9mSmHR/getRegion2Service.php'
+[Warn  - 15:26:32] Error: ENOENT: no such file or directory, open '/var/www/html/projet1/var/cache/dev/ContainerX9mSmHR/getRegionService.php'
+[Info  - 15:27:22] Indexing started.
+[Info  - 15:27:23] Indexing ended. 2 files indexed in 0s.
+[Info  - 15:27:26] Indexing started.
+[Info  - 15:27:26] Indexing ended. 2 files indexed in 0s.
+[Info  - 15:27:39] Indexing started.
+[Info  - 15:27:40] Indexing ended. 2 files indexed in 0s.
+[Info  - 15:27:53] Indexing started.
+[Info  - 15:27:53] Indexing ended. 2 files indexed in 0s.
+[Info  - 15:28:05] Indexing started.
+[Info  - 15:28:05] Indexing ended. 2 files indexed in 0s.
+[Info  - 15:28:10] Indexing started.
+[Info  - 15:28:10] Indexing ended. 2 files indexed in 0s.
+[Info  - 15:28:15] Indexing started.
+[Info  - 15:28:15] Indexing ended. 2 files indexed in 0s.
+[Info  - 15:28:23] Indexing started.
+[Info  - 15:28:23] Indexing ended. 2 files indexed in 0s.
+[Info  - 15:29:55] Indexing started.
+[Info  - 15:29:56] Indexing ended. 23 files indexed in 0s.
+[Info  - 15:29:56] Indexing started.
+[Info  - 15:29:58] Indexing ended. 373 files indexed in 1s.
+[Info  - 15:38:56] Indexing started.
+[Info  - 15:38:56] Indexing ended. 2 files indexed in 0s.
+[Info  - 15:39:13] Indexing started.
+[Info  - 15:39:13] Indexing ended. 2 files indexed in 0s.
+[Info  - 15:43:21] Indexing started.
+[Info  - 15:43:21] Indexing ended. 21 files indexed in 0s.
+[Info  - 15:43:22] Indexing started.
+[Info  - 15:43:23] Indexing ended. 383 files indexed in 1s.
+[Info  - 15:49:06] Indexing started.
+[Info  - 15:49:06] Indexing ended. 2 files indexed in 0s.
+[Info  - 15:49:13] Indexing started.
+[Info  - 15:49:13] Indexing ended. 2 files indexed in 0s.
+[Info  - 15:49:22] Indexing started.
+[Info  - 15:49:22] Indexing ended. 2 files indexed in 0s.
+[Info  - 15:49:37] Indexing started.
+[Info  - 15:49:38] Indexing ended. 2 files indexed in 0s.
+[Info  - 15:49:47] Indexing started.
+[Info  - 15:49:47] Indexing ended. 2 files indexed in 0s.
+[Info  - 15:50:16] Indexing started.
+[Info  - 15:50:16] Indexing ended. 22 files indexed in 0s.
+[Info  - 15:50:17] Indexing started.
+[Info  - 15:50:19] Indexing ended. 376 files indexed in 1s.
+[Info  - 15:50:29] Indexing started.
+[Info  - 15:50:29] Indexing ended. 1 files indexed in 0s.
+[Info  - 15:51:24] Indexing started.
+[Info  - 15:51:24] Indexing ended. 1 files indexed in 0s.
+[Info  - 16:45:45] Indexing started.
+[Info  - 16:45:45] Indexing ended. 2 files indexed in 0s.
+[Info  - 16:46:13] Indexing started.
+[Info  - 16:46:13] Indexing ended. 2 files indexed in 0s.
